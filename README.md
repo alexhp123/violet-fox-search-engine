@@ -7,9 +7,9 @@ Is not coplete but if you can halp,please,help for the project.
 
                           deeloper reqierements
 
-  1* crate easy to edit code for begeaners
-  2* make short code but large opsions for customazasion
-  3*it must be minimun 100 gb
+  1 crate easy to edit code for begeaners
+  2 make short code but large opsions for customazasion
+  3 it must be minimun 100 gb
 
   ---------------------------------------------------------------------------------
 
