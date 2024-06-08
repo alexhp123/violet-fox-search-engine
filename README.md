@@ -14,5 +14,5 @@ Is not coplete but if you can halp,please,help for the project.
   ---------------------------------------------------------------------------------
 
   in first this project it was an non-opensource but now is opensource
-  don't take the mesage "what are you ...this is still in...development.......how did you come here, get out of here in this time or i will call the police???!!!!!!!" as bing serus.
   
+  you can acces the web site using the url : https://alexhp123.github.io/violet-fox-serch-engene/
