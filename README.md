@@ -12,3 +12,7 @@ is not coplete but if you can halp,pleace,help for the project.
   3*itmust by the minimun 100 gb
 
   ---------------------------------------------------------------------------------
+
+  in first this project it must by non-opensource butis opensourse
+  don't take the mesage "what are you ...this is still in...development.......how did you come here, get out of here in this time or i will call the police???!!!!!!!" as bing serus.
+  
